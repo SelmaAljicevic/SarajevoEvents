@@ -1,2 +1,1 @@
 # SarajevoEvents
-Sarajevo Events
